@@ -1,5 +1,3 @@
-require './human'
-
 module Thinkable
     
     def think
